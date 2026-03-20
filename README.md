@@ -59,11 +59,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielCFeiten&show_icons=true&theme=dark" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GabrielCFeiten&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielCFeiten&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img width="20"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCFeiten&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ---
